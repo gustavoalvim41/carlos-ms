@@ -27,7 +27,7 @@ const Hero = () => {
               <Link href="/https://wa.me/5517988230597?text=Olá! Gostaria de saber valores e disponibilidade de mudas.">Solicitar Orçamento</Link>
             </Button>
             <Button asChild variant="outline" className="w-full sm:w-auto">
-              <Link href="/">
+              <Link href="#nossas">
                 Saiba mais
                 <ArrowRight className="size-4" />
               </Link>

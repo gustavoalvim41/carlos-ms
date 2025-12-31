@@ -32,15 +32,15 @@ const Footer = ({
     {
       title: "Links",
       links: [
-        { text: "Nossas Mudas", url: "#" },
-        { text: "Como Funciona", url: "#" },
+        { text: "Nossas Mudas", url: "#nossas" },
+        { text: "Como Funciona", url: "#process" },
         { text: "Sobre Nós", url: "#" },
       ],
     },
     {
       title: "FAQ",
       links: [
-        { text: "Perguntas Frequentes", url: "#" },
+        { text: "Perguntas Frequentes", url: "#faq" },
       ],
     },
   ],

@@ -68,7 +68,7 @@ const Navbar = ({
     },
     {
       title: "FAQ",
-      url: "/",
+      url: "#faq",
     },
   ],
   contact = {
