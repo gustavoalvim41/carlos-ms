@@ -63,11 +63,7 @@ const Navbar = ({
       url: "#process",
     },
     {
-      title: "Sobre Nós",
-      url: "/",
-    },
-    {
-      title: "FAQ",
+      title: "Dúvidas Frequentes",
       url: "#faq",
     },
   ],

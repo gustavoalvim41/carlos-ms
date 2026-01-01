@@ -24,7 +24,7 @@ const Hero = () => {
           </p>
           <div className="flex w-full flex-col justify-center gap-2 sm:flex-row lg:justify-start">
             <Button asChild className="w-full sm:w-auto">
-              <Link href="/https://wa.me/5517988230597?text=Olá! Gostaria de saber valores e disponibilidade de mudas.">Solicitar Orçamento</Link>
+              <Link href="https://wa.me/5517988230597?text=Olá! Gostaria de saber valores e disponibilidade de mudas.">Solicitar Orçamento</Link>
             </Button>
             <Button asChild variant="outline" className="w-full sm:w-auto">
               <Link href="#nossas">

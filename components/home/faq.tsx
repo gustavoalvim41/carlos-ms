@@ -69,7 +69,7 @@ const Faq = ({
   className,
 }: Faq1Props) => {
   return (
-    <section className={cn("py-32", className)}>
+    <section id="faq" className={cn("py-32", className)}>
       <div className="container mx-auto max-w-3xl">
         <h1 className="mb-4 text-center text-3xl font-semibold md:mb-11 md:text-4xl">
           {heading}
